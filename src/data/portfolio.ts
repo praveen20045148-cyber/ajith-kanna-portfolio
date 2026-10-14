@@ -18,7 +18,7 @@ export const profile = {
   tagline: "Cinema-style edits with a photographer's eye.",
   location: "Chennai, Tamil Nadu",
   email: "ajayefx2021@gmail.com",
-  phone: "9677195562",
+  phone: "9677194464",
   instagram: "https://instagram.com/ajay.efx",
   linktree: "https://linktr.ee/ajayefx2021",
   resume: "#", // TODO: put resume.pdf in /public and set "/resume.pdf"
