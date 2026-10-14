@@ -15,7 +15,7 @@ export const profile = {
   name: ["AJITH", "KANNA"],
   handle: "@ajay.efx",
   headline: "Video Editor · Content Creator",
-  tagline: "Cinema-style edits with a photographer's eye.",
+  tagline: "Crafting visuals | Shaping perspectives.",
   location: "Chennai, Tamil Nadu",
   email: "ajayefx2021@gmail.com",
   phone: "9677194464",
